@@ -1,0 +1,4 @@
+name: TestPlugin
+version: '${project.version}'
+main: info.ahaha.testplugin.TestPlugin
+api-version: 1.17
